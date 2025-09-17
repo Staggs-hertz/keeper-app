@@ -1,12 +1,12 @@
 {
-  "name": "keeper-app-part-1-starting",
+  "name": "keeper-part-3-starting",
   "version": "1.0.0",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
     "react-scripts": "5.0.1"
   },
   "devDependencies": {
